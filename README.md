@@ -19,8 +19,8 @@ python main.py --input laska.png --output laska_save.png
 | ------|-----:|
 | ![Original image][inp] | ![Original image + Visualization][out] |
 
-[inp]: https://github.com/cutlass90/grad-cam.tensorflow/blob/master/laska.png
-[out]: https://github.com/cutlass90/grad-cam.tensorflow/blob/master/laska_save.png
+[inp]: https://github.com/cutlass90/Grad-CAM-tensorflow/blob/master/laska.png
+[out]: https://github.com/cutlass90/Grad-CAM-tensorflow/blob/master/laska_save.png
 
 ## Acknowledgement
 All code was taken from https://github.com/Ankush96/grad-cam.tensorflow.git and modified a little.
